@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Electric Vehicle Population Analysis project repository. This project leverages Power BI to provide detailed understanding of the overall lanscapes of electric vehicles, determine the average electrice range of the vehicles, total BEV vehicles and % of Total BEV vehocles and a dynamic dashboard.The analysis covers various dimensions such as total vehicles by model year,state, top 20 toatal vehicles by make.
+Welcome to the Electric Vehicle Population Analysis project repository. This project leverages Power BI to provide detailed understanding of the overall landscapes of electric vehicles, determine the average electric range of the vehicles, total BEV vehicles and % of Total BEV vehicles and a dynamic dashboard.The analysis covers various dimensions such as total vehicles by model year,state, top 20 toatal vehicles by make.
 
 ## Project Description
 
